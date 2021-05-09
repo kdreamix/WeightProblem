@@ -1,3 +1,3 @@
 
-rootProject.name = "onetofory"
+rootProject.name = "WeightProblem"
 
